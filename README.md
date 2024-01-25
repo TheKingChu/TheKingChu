@@ -42,9 +42,9 @@
 
 <h3 align="left">Youtube channel:</h3>
 <p align="left">
-  <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucloiie3qm2ox3ix5ejhbvdq" target="blank">
+  <a href="https://www.youtube.com/channel/UCLOiIE3QM2ox3Ix5eJhBVDQ" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"   
-      alt="https://www.youtube.com/channel/ucloiie3qm2ox3ix5ejhbvdq" height="30" width="40" />
+      alt="Charlie's Youtube channel" height="30" width="40" />
   </a>
 </p>
 
