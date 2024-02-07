@@ -41,6 +41,9 @@
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
     <img src="https://godotengine.org/assets/logo_dark.svg" alt="godot engine" width="100" height="40" />
   </a>
+  <a href="https://desktop.github.com/" target="_blank" rel="noreferrer">
+    <img src="https://desktop.github.com/images/desktop-icon.svg" alt="github desktop" width="40" height="40" />
+  </a>
 </p>
 
 <h3 align="left">Youtube channel:</h3>
