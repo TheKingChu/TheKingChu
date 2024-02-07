@@ -36,8 +36,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.sanity.io/images/fuvbjjlp/production/36cbc8ae92c7711afb9ab1ec9f7174863f4d7c19-22x24.svg" alt="unity" width="40" height="40"/> 
-  </a> 
+    <img src="https://cdn.sanity.io/images/fuvbjjlp/production/36cbc8ae92c7711afb9ab1ec9f7174863f4d7c19-22x24.svg" alt="unity engine" width="40" height="40"/> 
+  </a>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
+    <img src="https://godotengine.org/assets/logo_dark.svg" alt="godot engine" width="100" height="40" />
+  </a>
 </p>
 
 <h3 align="left">Youtube channel:</h3>
