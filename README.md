@@ -2,6 +2,7 @@
 <h3>Game developer with a bachelor's degree in Games and Entertainment Technology</h3>
 
 - 🔭 I’m currently working on [Crypt of Damnation: Unleash the Curse](https://thekingcharlie.itch.io/crypt-of-damnation)
+    * And a Godot4 project called Cosmic Runner
 
 - 🌱 I’m currently learning `Python, React, HTML and CSS`
 
