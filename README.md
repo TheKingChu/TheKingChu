@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Crypt of Damnation: Unleash the Curse](https://thekingcharlie.itch.io/crypt-of-damnation)
     * And a Godot4 project called Cosmic Runner
 
-- 🌱 I’m currently learning `Python, React, HTML and CSS`
+- 🌱 I’m currently learning `Python, Django, HTML and CSS`
 
 - 👨‍💻 All of my projects are available at [https://eikascharlie.netlify.app/](https://eikascharlie.netlify.app/)
 
