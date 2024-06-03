@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning `Python, Django, HTML and CSS`
 
-- 👨‍💻 All of my projects are available at [https://eikascharlie.netlify.app/](https://eikascharlie.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://eikascharlie-ed2fdac3c59f.herokuapp.com/)
 
 - 💬 Ask me about `game design or video games`
 
