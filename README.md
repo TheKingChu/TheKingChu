@@ -2,9 +2,9 @@
 <h3>Game developer with a bachelor's degree in Games and Entertainment Technology</h3>
 
 - 🔭 I’m currently working on [Crypt of Damnation: Unleash the Curse](https://thekingcharlie.itch.io/crypt-of-damnation)
-    * And a Godot4 project called Cosmic Runner
+    * And a mobile game called One More Door
 
-- 🌱 I’m currently learning `Python, Django, HTML and CSS`
+- 🌱 I’m currently learning `Python, Django, Javascript, HTML and CSS`
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://eikascharlie-ed2fdac3c59f.herokuapp.com/)
 
